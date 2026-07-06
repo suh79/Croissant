@@ -1,0 +1,23 @@
+body{
+    background-color: burlywood;
+    text-align: center;
+}
+
+
+.h1{
+    color: black;
+}
+
+.croissant-photo {
+    size: 25%;
+}
+
+.p{
+    text-align: left;
+}
+
+.footer{
+    color: green;
+    text-decoration: underline;
+}
+
